@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rafael-N-Moura
-- 👀 I’m interested in Mobile Development, Flutter, Dart, Android
+- 👀 I’m interested in Mobile Development, Flutter, Dart
 - 💞️ I’m looking to collaborate on Mobile projects
 - 📫 How to reach me => rafaelnm.dev@gmail.com
 
