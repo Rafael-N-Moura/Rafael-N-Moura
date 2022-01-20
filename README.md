@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @Rafael-N-Moura
-- 👀 I’m interested in Mobile Development, Flutter, Dart
-- 💞️ I’m looking to collaborate on Mobile projects
-- 📫 How to reach me => rafaelnm.dev@gmail.com
-
-Apps publicados na Google Play
-- https://play.google.com/store/apps/details?id=br.com.rnmoura.projeto_budega
-- https://play.google.com/store/apps/details?id=br.dexter.rastrear
+- How to reach me -> rafaelnm.dev@gmail.com
+- You can see all my projects here -> https://github.com/Rafael-N-Moura/All-My-Projects
 ##
 <div align="center">
   <a href="https://github.com/Rafael-N-Moura">
