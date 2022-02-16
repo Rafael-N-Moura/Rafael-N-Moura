@@ -1,3 +1,6 @@
+
+I'm a mobile development enthusiast because I think that these devices will be much more important and will be a huge integrator in the near future. I work mainly with Flutter/Dart but I'm currently studying a lot of Java and Kotlin development. I've been working on personal projects and freelance work for two years now and I'm currently looking for a team where I can grow and develop my skills as a programmer. I'm passionate about creating solutions to real problems through applications and would like an opportunity to show what I can do.
+
 - How to reach me -> rafaelnm.dev@gmail.com
 - You can see all my projects here -> https://github.com/Rafael-N-Moura/All-My-Projects
 ##
