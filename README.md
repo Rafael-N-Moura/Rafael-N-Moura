@@ -1,6 +1,3 @@
-
-I'm a mobile development enthusiast because I think that these devices will be much more important and will be a huge integrator in the near future. I work mainly with Flutter/Dart but I'm currently studying a lot of Java and Kotlin development.
-
 - How to reach me -> rafaelnm.dev@gmail.com
 - You can see all my projects here -> https://github.com/Rafael-N-Moura/All-My-Projects
 ##
