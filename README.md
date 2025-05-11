@@ -1,4 +1,3 @@
-- How to reach me -> rafaelnm.dev@gmail.com
 - You can see all my projects here -> https://github.com/Rafael-N-Moura/All-My-Projects
 ##
 <div align="center">
