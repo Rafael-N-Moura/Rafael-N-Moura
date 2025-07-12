@@ -1,4 +1,4 @@
-- You can see all my projects here -> https://github.com/Rafael-N-Moura/All-My-Projects
+
 ##
 <div align="center">
   <a href="https://github.com/Rafael-N-Moura">
